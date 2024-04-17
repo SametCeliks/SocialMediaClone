@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666115346227",
+    "project_id": "sametinstacopy",
+    "storage_bucket": "sametinstacopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666115346227:android:4c787d705cb9ccce3bb846",
+        "android_client_info": {
+          "package_name": "com.samet.kotlininstagramsamet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9FSrUe8e65AaIolPNvb1q4kpB_uk_Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
